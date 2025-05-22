@@ -1,0 +1,31 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.workspace.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+*.log
+*.cache
+
+# Логи и кэш
+*.log
+*.cache
+*.sqlite3
+
+# Replit 
+.replit
+.replit.nix
+.replit/
+".env" 
