@@ -4,20 +4,22 @@ Thumbs.db
 desktop.ini
 
 # IDE
-.vscode/
 .idea/
 *.iml
 .workspace.xml
+.vscode
 
 # Python
 __pycache__/
+__pycache__
 *.py[cod]
+*.pyc
+*.pyd
+*.pyo
 *.egg-info/
 venv/
 .venv/
 env/
-*.log
-*.cache
 
 # Логи и кэш
 *.log
